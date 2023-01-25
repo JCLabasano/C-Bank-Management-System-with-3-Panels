@@ -1,0 +1,9 @@
+			Bank holder account number: 123
+			Bank holder account number: 123
+			Bank holder account number: 123
+			Bank holder account number: 641
+			Bank holder account number: 641
+			Withdraw Amount: 123 -------------------- Sun Dec 18 08:54:42 2022
+
+			Bank holder account number: 123
+			Bank holder account number: 1231
